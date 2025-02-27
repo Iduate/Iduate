@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm David Iduate 👋  
 
-<!--
-**Iduate/Iduate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior DevOps Engineer | Cloud Enthusiast | Web Developer**  
 
-Here are some ideas to get you started:
+I’m passionate about **streamlining development and operations** through **automation, CI/CD, and cloud technologies**. My expertise includes:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔹 **Infrastructure as Code (IaC)** with Terraform & Ansible  
+- 🔹 **Containerization & Orchestration** using Docker & Kubernetes  
+- 🔹 **CI/CD Pipelines** with Jenkins & GitHub Actions  
+- 🔹 **Cloud Platforms**: AWS, GCP, and Azure  
+- 🔹 **Web Development**: React, Node.js, PHP  
+
+💡 **Always learning** and keeping up with the latest tech trends.  
+🎯 **Goal**: Building scalable, efficient, and secure cloud solutions.  
+
+---
+
+### 📫 Connect with Me:  
+📸 **Instagram**: [@iduate1](https://www.instagram.com/iduate1)  
+🐦 **X (Twitter)**: [@IduateD](https://x.com/IduateD)  
+🔗 **LinkedIn**: [David Iduate](https://www.linkedin.com/in/david-iduate)  
+💬 **WhatsApp**: [+2347039172233](https://wa.me/2347039172233)  
+
+---
+
+🔥 _Let’s connect and build something amazing!_ 🚀  
