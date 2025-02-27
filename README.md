@@ -13,14 +13,10 @@ I’m passionate about **streamlining development and operations** through **aut
 💡 **Always learning** and keeping up with the latest tech trends.  
 🎯 **Goal**: Building scalable, efficient, and secure cloud solutions.  
 
----
-
 ### 📫 Connect with Me:  
 📸 **Instagram**: [@iduate1](https://www.instagram.com/iduate1)  
 🐦 **X (Twitter)**: [@IduateD](https://x.com/IduateD)  
 🔗 **LinkedIn**: [David Iduate](https://www.linkedin.com/in/david-iduate)  
 💬 **WhatsApp**: [+2347039172233](https://wa.me/2347039172233)  
-
----
 
 🔥 _Let’s connect and build something amazing!_ 🚀  
