@@ -1,19 +1,20 @@
 <h1 style="font-size: 32px;">👋 Hi, I'm David Iduate</h1>
 
-<h2 style="font-size: 26px; color: #00bfff;">🚀 Senior DevOps Engineer | Cloud Enthusiast | Web & Blockchain Developer</h2>
+<h2 style="font-size: 26px; color: #00bfff;">🚀 Senior DevOps Engineer | Python (Django) Backend Developer | Cloud & Blockchain Enthusiast</h2>
 
 <p style="font-size: 20px;">
-I'm passionate about <strong>streamlining development and operations</strong> through
-<strong>automation, CI/CD, cloud, and blockchain technologies</strong>. I specialize in building scalable, secure, and efficient infrastructures and decentralized applications. My areas of expertise include:
+I'm passionate about <strong>building robust backend systems</strong> and <strong>streamlining development and operations</strong> through
+<strong>Python, automation, CI/CD, cloud, and blockchain technologies</strong>. I specialize in creating scalable, secure, and efficient infrastructures and backend services. My areas of expertise include:
 </p>
 
 <ul style="font-size: 20px;">
+  <li><strong>Backend Development</strong> with <strong>Python & Django</strong>, RESTful APIs, and microservices</li>
   <li><strong>Infrastructure as Code (IaC)</strong> with Terraform & Ansible</li>
   <li><strong>Containerization & Orchestration</strong> using Docker & Kubernetes</li>
   <li><strong>CI/CD Pipelines</strong> with Jenkins, GitHub Actions, GitLab CI</li>
   <li><strong>Cloud Platforms</strong>: AWS, GCP, Azure</li>
   <li><strong>Blockchain Development</strong>: Smart Contracts (Solidity), DApps, Web3.js, Hardhat, Ethereum</li>
-  <li><strong>Web Development</strong>: React.js, Node.js, REST APIs</li>
+  <li><strong>Web Development</strong>: React.js, Node.js (basic)</li>
   <li><strong>Monitoring & Observability</strong>: Prometheus, Grafana, ELK Stack</li>
 </ul>
 
