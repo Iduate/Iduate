@@ -1,51 +1,104 @@
 # 👋 Hi, I'm David Iduate
+## 🐍 Python Backend Developer | Django & FastAPI Specialist | API Architecture Expert
 
-## 🚀 Senior DevOps Engineer | Python Backend Developer (Django, FastAPI) | Cloud Infrastructure | CI/CD | Docker | Kubernetes | Terraform | AWS | GCP | Azure
-
-I build **high-performance backend systems**, scalable APIs, and robust cloud infrastructure solutions.  
-Specialized in **trading platforms, enterprise APIs, and CI/CD automation**.
-
----
-
-## 🛠 Languages & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-FC6D26?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-555?style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+I craft **robust, scalable backend systems** and **high-performance APIs** using modern Python frameworks.  
+Specialized in **enterprise-grade applications, RESTful services, and database optimization**.
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Core Expertise
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davididuate&show_icons=true&theme=radical)
+### 🚀 **Python Backend Development**
+- **Django** - Full-stack web applications, admin panels, ORM optimization
+- **FastAPI** - High-performance async APIs, automatic documentation, type hints
+- **Django REST Framework** - RESTful APIs, serialization, authentication
+- **Async Programming** - AsyncIO, background tasks, real-time features
+
+### 🗄️ **Database & Performance**
+- **PostgreSQL** - Advanced queries, indexing, performance tuning
+- **Redis** - Caching strategies, session management, pub/sub
+- **Database Design** - Schema optimization, migrations, data modeling
+- **Query Optimization** - N+1 problem solving, complex joins, aggregations
+
+### 🔧 **API Development**
+- RESTful API design principles
+- GraphQL implementation
+- Authentication & Authorization (JWT, OAuth2)
+- API versioning and documentation
+- Rate limiting and security best practices
 
 ---
 
-## 📫 Connect with Me
+## 🛠 Tech Stack
 
-[Instagram](https://www.instagram.com/iduate1) • [X (Twitter)](https://x.com/IduateD) • [LinkedIn](https://www.linkedin.com/in/david-iduate) • [WhatsApp](https://wa.me/2347039172233) • [Email](mailto:davididuate11@gmail.com)
+### **Core Technologies**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![DRF](https://img.shields.io/badge/-Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Tools & Libraries**
+![Celery](https://img.shields.io/badge/-Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### **DevOps & Deployment**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏗️ What I Build
+
+### **🔥 High-Performance APIs**
+- Async FastAPI services handling 10k+ requests/second
+- Django applications with optimized database queries
+- Real-time WebSocket implementations
+- Microservices architecture
+
+### **💼 Enterprise Solutions**
+- Trading platform backends with real-time data processing
+- E-commerce APIs with complex business logic
+- Authentication systems with multi-factor security
+- Data pipeline integrations
+
+### **📊 Data-Driven Applications**
+- Analytics dashboards with Django + Pandas
+- ETL processes for large datasets
+- Machine learning model serving APIs
+- Reporting systems with automated insights
+
+---
+
+## 🚀 Current Focus
+
+- 🔨 Building scalable microservices with FastAPI
+- 📈 Optimizing Django application performance
+- 🧪 Implementing comprehensive testing strategies
+- 🔒 Advanced API security patterns
+- ⚡ Real-time data processing systems
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-iduate)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davididuate11@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IduateD)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347039172233)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=davididuate&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+**💡 Available for Python backend projects and consulting opportunities**
