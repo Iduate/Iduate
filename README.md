@@ -1,50 +1,59 @@
-<h1 style="font-size: 36px; font-weight: 700; color: #222;">David Iduate</h1>
-<h2 style="font-size: 26px; color: #007acc; font-weight: 600; margin-top: 0;">
-Senior Backend Python Developer | FastAPI & Django Expert | Trading Platform Architect
-</h2>
+# 👋 Hi, I'm David Iduate
 
-<p style="font-size: 18px; line-height: 1.6; color: #333; max-width: 700px;">
-I am a Senior Backend Python Developer with 6+ years of experience designing and building high-performance, scalable backend systems and APIs. I specialize in trading platforms, financial APIs, and enterprise-grade applications with a strong focus on reliability, scalability, and performance optimization.
-</p>
+## 🐍 Senior Backend Python Developer | FastAPI & Django Expert | Trading Platform Architect
 
-<h3 style="font-size: 22px; color: #007acc; font-weight: 600;">Core Expertise</h3>
-<ul style="font-size: 18px; line-height: 1.8; color: #444; max-width: 700px; padding-left: 20px;">
-  <li><strong>Python Frameworks:</strong> Django, FastAPI, Flask, Django REST Framework (DRF)</li>
-  <li><strong>High-Frequency Trading Systems:</strong> Architected cryptocurrency platforms handling 10,000+ API calls/min with <100ms response times</li>
-  <li><strong>Database Optimization:</strong> PostgreSQL, MySQL, MongoDB, Redis; advanced query tuning & performance optimization</li>
-  <li><strong>Real-time Systems:</strong> WebSocket streaming for live data updates and trading applications</li>
-  <li><strong>Microservices Architecture:</strong> Scalable services supporting 50,000+ daily active users</li>
-  <li><strong>API Development:</strong> RESTful APIs, GraphQL endpoints, API gateways, with detailed documentation</li>
-  <li><strong>Performance Engineering:</strong> Caching strategies, query optimization, achieving up to 40% performance gains</li>
-  <li><strong>Asynchronous Processing:</strong> Celery with RabbitMQ and Redis for background tasks and job queues</li>
-  <li><strong>Cloud & DevOps:</strong> AWS, GCP, Azure; Docker containerization, cloud-native architecture</li>
-  <li><strong>Financial Integration:</strong> Stripe, PayPal, Flutterwave, Binance API integration with robust error handling</li>
-  <li><strong>Testing & Quality:</strong> TDD with pytest, 95%+ code coverage, clean architecture principles</li>
-  <li><strong>Monitoring & Observability:</strong> New Relic, Sentry, Prometheus, CloudWatch</li>
-  <li><strong>Security & Compliance:</strong> JWT/OAuth2 authentication, data encryption, HIPAA-compliant systems</li>
-</ul>
+I build **high-performance, scalable backend systems and APIs** with Python.  
+Specialized in **trading platforms, financial APIs, and enterprise applications** with a focus on **speed, reliability, and performance**.
 
-<hr style="margin: 40px 0; border: none; border-top: 1px solid #ddd;"/>
+---
 
-<h3 style="font-size: 24px; color: #007acc; font-weight: 600;">🚀 Recent Achievements</h3>
-<ul style="font-size: 16px; line-height: 1.6; color: #444; max-width: 700px; padding-left: 20px;">
-  <li>Built a cryptocurrency trading platform processing $2M+ daily volume with 99.9% uptime</li>
-  <li>Reduced infrastructure costs by 30% through cloud-native architecture migration</li>
-  <li>Optimized systems serving 50,000+ daily active users with 60% database load reduction</li>
-  <li>Led development of high-frequency trading bots achieving sub-100ms response times</li>
-</ul>
+## 💻 My Expertise
 
-<hr style="margin: 40px 0; border: none; border-top: 1px solid #ddd;"/>
+- **Python Frameworks:** Django, FastAPI, Flask, Django REST Framework (DRF)  
+- **High-Frequency Trading Systems:** Architected crypto platforms handling **10,000+ API calls/min** with **<100ms response times**  
+- **Database Optimization:** PostgreSQL, MySQL, MongoDB, Redis; advanced **query tuning & caching**  
+- **Real-time Systems:** WebSocket streaming for live data updates and trading apps  
+- **Microservices Architecture:** Scalable services for **50,000+ daily active users**  
+- **API Development:** RESTful APIs, GraphQL, API gateways with detailed docs  
+- **Performance Engineering:** Caching, query optimization, **up to 40% performance gains**  
+- **Asynchronous Processing:** Celery + RabbitMQ/Redis for background jobs  
+- **Cloud & DevOps:** AWS, GCP, Azure, Docker, cloud-native architecture  
+- **Financial Integration:** Stripe, PayPal, Flutterwave, Binance API with robust error handling  
+- **Testing & Quality:** TDD with pytest, **95%+ code coverage**, clean architecture  
+- **Monitoring & Observability:** New Relic, Sentry, Prometheus, CloudWatch  
+- **Security & Compliance:** JWT/OAuth2, encryption, HIPAA-compliant systems  
 
-<h3 style="font-size: 24px; color: #007acc; font-weight: 600;">📫 Connect with Me</h3>
-<p style="font-size: 18px; color: #333; max-width: 700px;">
-Instagram: <a href="https://www.instagram.com/iduate1" target="_blank" style="color: #007acc; text-decoration: none;">@iduate1</a><br/>
-X (Twitter): <a href="https://x.com/IduateD" target="_blank" style="color: #007acc; text-decoration: none;">@IduateD</a><br/>
-LinkedIn: <a href="https://www.linkedin.com/in/david-iduate" target="_blank" style="color: #007acc; text-decoration: none;">David Iduate</a><br/>
-WhatsApp: <a href="https://wa.me/2347039172233" target="_blank" style="color: #007acc; text-decoration: none;">+2347039172233</a><br/>
-Email: <a href="mailto:davididuate11@gmail.com" style="color: #007acc; text-decoration: none;">davididuate11@gmail.com</a>
-</p>
+---
 
-<p style="font-size: 20px; font-weight: 600; color: #ff6f00; margin-top: 40px;">
-Let's build high-performance backend systems together! 🚀
-</p>
+## 🚀 Recent Achievements
+
+- Built a **crypto trading platform** processing **$2M+ daily volume** with **99.9% uptime**  
+- Reduced infrastructure costs by **30%** through **cloud-native migration**  
+- Optimized systems for **50,000+ DAU** with **60% database load reduction**  
+- Led development of **high-frequency trading bots** with **sub-100ms response times**  
+
+---
+
+## 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-FC6D26?style=flat&logo=google-cloud&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+[Instagram](https://www.instagram.com/iduate1) • [X (Twitter)](https://x.com/IduateD) • [LinkedIn](https://www.linkedin.com/in/david-iduate) • [WhatsApp](https://wa.me/2347039172233) • [Email](mailto:davididuate11@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I love building **backend systems that just *work*** and **watching metrics spike in real-time dashboards**!  
+Let’s build high-performance systems together 🚀
