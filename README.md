@@ -77,8 +77,6 @@ Specialized in **enterprise-grade applications, APIs, and full-stack solutions**
 
 ---
 
----
-
 ## 👁‍🗨 Profile Visitors  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=davididuate&label=Profile%20Views&color=0e75b6&style=flat)  
