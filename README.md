@@ -81,11 +81,11 @@ Specialized in **enterprise-grade applications, APIs, and full-stack solutions**
 
 <div align="center">  
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davididuate&show_icons=true&theme=radical&hide_border=true)  
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=davididuate&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_ACTUAL_GITHUB_USERNAME&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davididuate&layout=compact&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)  
 
 </div>  
 
@@ -93,13 +93,13 @@ Specialized in **enterprise-grade applications, APIs, and full-stack solutions**
 
 ## 🐍 Contribution Snake  
 
-![GitHub Contribution Snake](https://github.com/davididuate/github-contribution-snake.svg)  
+![snake gif](https://github.com/YOUR_ACTUAL_GITHUB_USERNAME/YOUR_ACTUAL_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 👁‍🗨 Profile Visitors  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=davididuate&label=Profile%20Views&color=0e75b6&style=flat)  
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_ACTUAL_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)  
 
 ---
 
@@ -112,4 +112,4 @@ Specialized in **enterprise-grade applications, APIs, and full-stack solutions**
 
 ---
 
-**💡 Available for Software Engineering, Full-Stack & Backend projects, collaborations, and consulting opportunities**  
+**💡 Available for Software Engineering, Full-Stack & Backend projects, collaborations, and consulting opportunities**
