@@ -2,7 +2,7 @@
 
 **Senior Full Stack Software Developer** — Nigeria-based, open to Germany / UK / EU roles.
 
-I've spent the last 6+ years building products end-to-end — from user-facing interfaces to the APIs, databases, and cloud infrastructure underneath. I care about code that's clean, testable, and maintainable by someone other than me.
+I've spent the last 6+ years building products end-to-end, from user-facing interfaces to the APIs, databases, and cloud infrastructure underneath. I care about code that's clean, testable, and maintainable by someone other than me.
 
 My work spans **full stack product development**, **Python backends**, **cloud infrastructure**, and **DevOps automation**. I've shipped production systems across fintech, e-commerce, and agri-tech — remotely, with teams in the UK, Singapore, and beyond.
 
